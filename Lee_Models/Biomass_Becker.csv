@@ -1,0 +1,48 @@
+Biomass components (m_i);ID;Coefficient(c_i)
+H2O;C00001_c;20000
+ATP;C00002_c;20000
+L-Glutamate;C00025_c;9,68
+L-Glutamine;C00064_c;8,72
+L-Alanine;C00041_c;6,6
+L-Lysine;C00047_c;5,45
+L-Leucine;C00123_c;5,21
+L-Aspartate;C00441_c;4,48
+L-Asparagine;C00152_c;4,48
+L-Valine;C00183_c;4,12
+L-Isoleucine;C00407_c;4,06
+GMP;C00144_c;4,01
+L-Arginine;C00062_c;3,88
+Glycine;C00037_c;3,51
+L-Phenylalanine;C00079_c;3,33
+AMP;C00020_c;3,11
+L-Serine;C00065_c;2,6
+L-Threonine;C00188_c;2,54
+UMP;C00105_c;2,39
+L-Tyrosine;C00082_c;2,3
+CMP;C00055_c;2,2
+L-Proline;C00148_c;2,12
+L-Methionine;C00073_c;1,94
+UDP-N-acetylmuramate;C01050_c;1,78
+L-Histidine;C00135_c;1,45
+L-Tryptophan;C00078_c;1,27
+LL-2,6-Diaminoheptanedioat;C00666_c;1,27
+N-Acetyl-D-glucosamine 1-phosphate;C04256_c;1,22
+L-Cysteine;C00097_c;0,79
+dAMP;C00360_c;0,76
+dTMP;C00364_c;0,73
+dGMP;C00362_c;0,6
+dCMP;C00239_c;0,53
+N-Acetyl-D-glucosamine;C00140_c;0,38
+D-Glucosamine 1-phosphate;C06156_c;0,23
+Thiamin;C00378_c;0,01
+5,6,7,8-Tetrahydrofolat;C00101_c;0,01
+Spermidine;C00315_c;0,01
+Siroheme;C00748_c;0,01
+Hexadecanoic acid;C00249_c;0,01
+Putrescine;C00134_c;0,01
+NADP;C00006_c;0,01
+NAD;C00003_c;0,01
+5,10-Methylenetetrahydrofolate;C00143_c;0,01
+Heme O;C15672_c;0,01
+FAD;C00016_c;0,01
+10-Formyltetrahydrofolate;C00234_c;0,01
