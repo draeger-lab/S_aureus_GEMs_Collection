@@ -45,14 +45,14 @@ def add_cv_term_from_notes_species(entry, db_id ):
     cv = CVTerm()
     cv.setQualifierType(BIOLOGICAL_QUALIFIER)
     cv.setBiologicalQualifierType(BQB_IS)
-    cv.addResource('http://identifiers.org/'+ metabol_db_dict[db_id]+entry)
+    cv.addResource('https://identifiers.org/'+ metabol_db_dict[db_id]+entry)
     species.addCVTerm(cv)
                 
 def add_cv_term_from_notes_reactions(entry, db_id ):
     cv = CVTerm()
     cv.setQualifierType(BIOLOGICAL_QUALIFIER)
     cv.setBiologicalQualifierType(BQB_IS)
-    cv.addResource('http://identifiers.org/'+ reaction_db_dict[db_id]+entry)
+    cv.addResource('https://identifiers.org/'+ reaction_db_dict[db_id]+entry)
     reaction.addCVTerm(cv)
 
 
